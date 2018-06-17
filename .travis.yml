@@ -7,3 +7,5 @@ install:
 # command to run tests
 script:
   - echo done
+notifications:
+  email: false
