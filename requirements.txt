@@ -24,3 +24,4 @@ six==1.11.0
 svg.path==2.1.1
 watchdog==0.8.3
 wrapt==1.10.11
+doit==0.31.0
