@@ -2,5 +2,8 @@
   "rangeStrategy":  "bump",
   "pip_requirements": {
     "enabled": true
+  },
+  "compatibilityRestriction": {
+    "python": "2.7"
   }
 }
