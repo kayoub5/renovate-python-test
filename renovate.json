@@ -3,7 +3,7 @@
   "pip_requirements": {
     "enabled": true
   },
-  "compatibilityRestriction": {
+  "compatibility": {
     "python": "2.7"
   }
 }
